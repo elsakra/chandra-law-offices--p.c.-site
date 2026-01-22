@@ -1,0 +1,88 @@
+{
+  "company": {
+    "name": "Chandra Law Offices, P.C.",
+    "tagline": "Professional Excellence, Client Service and Personal Attention",
+    "description": "Chandra Law Offices, P.C., is conveniently located in Kew Gardens, Queens, New York, and provides comprehensive legal services to individuals and small businesses in all aspects of real estate and business law. We represent clients in New York City and Long Island. The commitment to professional excellence, client service and personal attention is what sets us apart from other law firms. The intimacy and flexibility of a small firm allows us to focus on our clients' end goals to develop effective and creative business solutions.",
+    "phone": "(718) 261-4200",
+    "email": "Arun@ChandraLawNY.com",
+    "address": "125-10 Queens Blvd., Suite 7, Kew Gardens, NY 11415",
+    "hours": null
+  },
+  "branding": {
+    "logo": null,
+    "primaryColor": "#1e3a5f",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Comprehensive Legal Services for Real Estate and Business Law",
+    "subheadline": "Professional excellence, client service and personal attention in Queens, New York",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1920&h=1080&fit=crop&q=80",
+    "imageOpacity": 35
+  },
+  "sections": {
+    "about": {
+      "headline": "About Chandra Law Offices",
+      "content": "Arun Chandra, with two decades of legal experience, is the founder of Chandra Law Offices. Before founding Chandra Law Offices, Mr. Chandra was associated with the international law firms of Jones Day and Hogan Lovells. He has represented Fortune 500 companies, technology companies, mid- to small-size firms and individuals in a wide variety of industries including software, manufacturing, retail and real estate. Mr. Chandra is privileged to have served as a federal law clerk to the Honorable William H. Pauley III, a highly respected judge in the Southern District of New York.",
+      "image": "https://plus.unsplash.com/premium_photo-1661328082931-6ff99534f69f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGF3JTIwb2ZmaWNlJTIwaW50ZXJpb3IlMjBwcm9mZXNzaW9uYWx8ZW58MHwwfHx8MTc2OTEwNzkzN3ww&ixlib=rb-4.1.0&q=85",
+      "values": [
+        {
+          "title": "Professional Excellence",
+          "description": "Commitment to the highest standards of legal practice and client service"
+        },
+        {
+          "title": "Personal Attention",
+          "description": "Intimacy and flexibility of a small firm focused on clients' end goals"
+        },
+        {
+          "title": "Creative Solutions",
+          "description": "Effective and innovative business solutions tailored to meet clients' needs and budgets"
+        }
+      ]
+    },
+    "services": {
+      "headline": "Practice Areas"
+    },
+    "team": {
+      "headline": "Our Attorneys"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Chandra Law Offices, P.C. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Home",
+    "description": null
+  },
+  "theme": "dark",
+  "vibe": "corporate"
+}
